@@ -1,8 +1,9 @@
 # AI-Startups-India
 A list of AI(and Data Science) Startups working in different domains(either based in India or have an office here)
-'''
-More coming soon
-'''
+
+```
+Give examples
+```
 - Rivi
 - Zinier
 - Entropik Tech
